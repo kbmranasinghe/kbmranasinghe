@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm K.B.M.Ranasinghe</h1>
 <h3 align="center">A passionate and dedicated to master the of AL programming and become a skilled Business Central developer</h3>
 
@@ -23,6 +24,6 @@
 
 
 <br>
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbmranasinghe&layout=compact&theme=radical" alt="My Github Stats">
 </p>
